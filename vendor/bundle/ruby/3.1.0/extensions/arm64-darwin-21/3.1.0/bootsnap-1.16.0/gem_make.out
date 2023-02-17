@@ -1,0 +1,18 @@
+current directory: /Users/sebastien.maw/Projects/Rails/rails-react-revision-001/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/sebastien.maw/.rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sebastien.maw/Projects/Rails/rails-react-revision-001/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230217-23745-4fpw2g sitelibdir\=./.gem.20230217-23745-4fpw2g clean
+
+current directory: /Users/sebastien.maw/Projects/Rails/rails-react-revision-001/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230217-23745-4fpw2g sitelibdir\=./.gem.20230217-23745-4fpw2g
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/sebastien.maw/Projects/Rails/rails-react-revision-001/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230217-23745-4fpw2g sitelibdir\=./.gem.20230217-23745-4fpw2g install
+/Users/sebastien.maw/homebrew/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20230217-23745-4fpw2g/bootsnap
+
+current directory: /Users/sebastien.maw/Projects/Rails/rails-react-revision-001/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230217-23745-4fpw2g sitelibdir\=./.gem.20230217-23745-4fpw2g clean
